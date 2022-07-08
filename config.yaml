@@ -212,43 +212,43 @@ proxy-groups:
   disable-udp: false
   proxies:
   - REJECT
-rule-providers:
-  Koneksi-Proxy:
-    type: file
-    behavior: classical
-    path: "./koneksi-proxy.yaml"
-  Bypass-Whatsapp:
-    type: file
-    behavior: domain
-    path: "./bypass-whatsapp.yaml"
-  Bypass-Sosmed:
-    type: file
-    behavior: classical
-    path: "./bypass-sosmed.yaml"
-  Bypass-Stream:
-    type: file
-    behavior: classical
-    path: "./bypass-stream.yaml"
-  Bypass-Game:
-    type: file
-    behavior: classical
-    path: "./bypass-game.yaml"
-  Safety-Child:
-    type: file
-    behavior: classical
-    path: "./safety-child.yaml"
-
 rules:
 - IP-CIDR,198.18.0.1/16,REJECT,no-resolve
 - DST-PORT,989,AMANKAN-ANAK
 - DST-PORT,10087,AMANKAN-ANAK
 - IP-CIDR,198.18.0.1/16,AMANKAN-ANAK,no-resolve
-- RULE-SET,Koneksi-Proxy,SIMASTER-V1.3
-- RULE-SET,Bypass-Whatsapp,WHATSAPP
-- RULE-SET,Bypass-Sosmed,SOSMED
-- RULE-SET,Bypass-Stream,STREAM
-- RULE-SET,Bypass-Game,GAME
-- RULE-SET,Safety-Child,AMANKAN-ANAK
+- DOMAIN-KEYWORD,google,SIMASTER-V1.3
+- DOMAIN-KEYWORD,googleapis,SIMASTER-V1.3
+- DOMAIN-KEYWORD,googlevideo,STREAM
+- DOMAIN-KEYWORD,ggpht,STREAM
+- DOMAIN-KEYWORD,whatsapp,WHATSAPP
+- DOMAIN-KEYWORD,facebook,SOSMED
+- DOMAIN-KEYWORD,fbcdn,SOSMED
+- DOMAIN-KEYWORD,fb,SOSMED
+- DOMAIN-KEYWORD,instagram,SOSMED
+- DOMAIN-KEYWORD,cdninstagram,SOSMED
+- DOMAIN-KEYWORD,youtube,STREAM
+- DOMAIN-KEYWORD,ytimg,STREAM
+- DOMAIN-KEYWORD,gvt1,STREAM
+- DOMAIN-KEYWORD,gvt2,STREAM
+- DOMAIN-KEYWORD,ml,GAME
+- DOMAIN-KEYWORD,aihelp,GAME
+- DOMAIN-KEYWORD,yuanzapp,GAME
+- DOMAIN-KEYWORD,youngjoygame,GAME
+- DOMAIN-KEYWORD,mobilelegends,GAME
+- DOMAIN-KEYWORD,garena,GAME
+- DOMAIN-KEYWORD,garenanow,GAME
+- DOMAIN-KEYWORD,freefire,GAME
+- DOMAIN-KEYWORD,arenaofvalor,GAME
+- DOMAIN-KEYWORD,krafton,GAME
+- DOMAIN-KEYWORD,tencent,GAME
+- DOMAIN-KEYWORD,proxemabeta,GAME
+- DOMAIN-KEYWORD,pubg,GAME
+- DOMAIN-KEYWORD,anticheatexpert,GAME
+- DOMAIN-KEYWORD,xnxx,AMANKAN-ANAK
+- DOMAIN-KEYWORD,porn,AMANKAN-ANAK
+- DOMAIN-KEYWORD,sex,AMANKAN-ANAK
+- DOMAIN-KEYWORD,bokep,AMANKAN-ANAK
 - GEOIP,ID,SIMASTER-V1.3
 - MATCH,SIMASTER-V1.3
 tun:
