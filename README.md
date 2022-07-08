@@ -10,7 +10,7 @@
 
 - pkg install git -y
 
-- git clone https://github.com/lycoxz/ClashForTermux.git
+- git clone https://github.com/MasterWifiNetworkSolution/clashtermux.git
 
 - cd clashtermux
 
