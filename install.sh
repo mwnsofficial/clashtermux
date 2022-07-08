@@ -35,43 +35,43 @@ echo ""
 sleep 2
 
 echo -e $b"➤ "$w" coppying master-isp.yaml: "$g"master-isp"$w
-cp -r -f vmess.yaml $HOME/.config/clash
+cp -r -f master-isp.yaml $HOME/.config/clash
 echo ""
 
 sleep 2
 
 echo -e $b"➤ "$w" coppying koneksi-proxy.yaml: "$g"Koneksi-Proxy"$w
-cp -r -f trojan.yaml $HOME/.config/clash
+cp -r -f koneksi-proxy.yaml $HOME/.config/clash
 echo ""
 
 sleep 2
 
 echo -e $b"➤ "$w" coppying bypass-whatsapp.yaml: "$g"Bypass-Whatsapp"$w
-cp -r -f trojan.yaml $HOME/.config/clash
+cp -r -f bypass-whatsapp.yaml $HOME/.config/clash
 echo ""
 
 sleep 2
 
 echo -e $b"➤ "$w" coppying bypass-sosmed.yaml: "$g"Bypass-Sosmed"$w
-cp -r -f trojan.yaml $HOME/.config/clash
+cp -r -f bypass-sosmed.yaml $HOME/.config/clash
 echo ""
 
 sleep 2
 
 echo -e $b"➤ "$w" coppying bypass-stream.yaml: "$g"Bypass-Stream"$w
-cp -r -f trojan.yaml $HOME/.config/clash
+cp -r -f bypass-stream.yaml $HOME/.config/clash
 echo ""
 
 sleep 2
 
 echo -e $b"➤ "$w" coppying bypass-game.yaml: "$g"Bypass-Game"$w
-cp -r -f trojan.yaml $HOME/.config/clash
+cp -r -f bypass-game.yaml $HOME/.config/clash
 echo ""
 
 sleep 2
 
 echo -e $b"➤ "$w" coppying safety-child.yaml: "$g"Safety-Child"$w
-cp -r -f trojan.yaml $HOME/.config/clash
+cp -r -f safety-child.yaml $HOME/.config/clash
 echo ""
 
 sleep 2
