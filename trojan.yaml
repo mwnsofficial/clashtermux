@@ -1,9 +1,0 @@
-proxies:
- - name: "Trojan"
-   type: trojan
-   server: sg1-trojan.bonds.id
-   port: 443
-   password: d34b7780-feda-11ec-b6bd-1239d0255272
-   udp: true
-   sni: isi-bugmu.com
-   skip-cert-verify: true
