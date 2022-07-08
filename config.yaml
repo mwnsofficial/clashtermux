@@ -9,12 +9,12 @@ mode: rule
 log-level: info
 ipv6: false
 external-controller: 0.0.0.0:9090
-external-ui: folder
+external-ui: yacd-gh-pages
 dns:
   enable: true
   ipv6: false
   enhanced-mode: fake-ip
-  listen: 0.0.0.0:7874
+  listen: 0.0.0.0:7894
   fallback-filter:
   geoip: true
   geoip-code: ID
