@@ -9,7 +9,7 @@ mode: rule
 log-level: info
 ipv6: false
 external-controller: 0.0.0.0:9090
-external-ui: folder
+external-ui: yacd-gh-pages
 dns:
   enable: true
   ipv6: false
@@ -512,4 +512,5 @@ tun:
 profile:
   store-selected: true
   store-fake-ip: true
+secret : ""
 bind-address: "*"
