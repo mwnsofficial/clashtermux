@@ -1,0 +1,21 @@
+payload:
+
+  ## > LINTASAN PACU MODEM
+
+  # > JALUR GAME KE DIRECT
+  - DOMAIN-KEYWORD,garena
+  - DOMAIN-KEYWORD,garenanow
+  - DOMAIN-KEYWORD,ml
+  - DOMAIN-KEYWORD,mobilelegends
+  - DOMAIN-KEYWORD,aihelp
+  - DOMAIN-KEYWORD,pubg
+  - DOMAIN-KEYWORD,pubgmobile
+  - DOMAIN-KEYWORD,tencent
+  - DOMAIN-KEYWORD,proxemabeta
+  - DOMAIN-KEYWORD,akamaihd
+  - DOMAIN-KEYWORD,akamaized
+  - DOMAIN-KEYWORD,yuanzapp
+  - DOMAIN-KEYWORD,taobao
+  - DOMAIN-KEYWORD,shellfire
+  - DOMAIN-KEYWORD,ragnarok
+  - DOMAIN-KEYWORD,anticheatexpert

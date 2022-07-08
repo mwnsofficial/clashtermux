@@ -1,0 +1,15 @@
+payload:
+
+  ## > LINTASAN PACU MODEM
+
+  # > JALUR WHAYSAPP KE DIRECT
+  - '.*.cdn.whatsapp.net'
+  - 'g.whatsapp.net'
+  - 'graph.facebook.com'
+  - 'graph.whatsapp.com'
+  - 'media-.*.cdn.whatsapp.net'
+  - 'media..*.fna.whatsapp.net'
+  - 'mmg.whatsapp.net'
+  - 'pps.whatsapp.net'
+  - 'static.whatsapp.net'
+  - 'v.whatsapp.net'

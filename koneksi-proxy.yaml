@@ -1,0 +1,109 @@
+payload:
+
+  ## > LINTASAN PACU PROXIE
+
+  # >JALUR BROWSER
+  - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,bing
+  - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-KEYWORD,live
+  - DOMAIN-KEYWORD,yahoo
+  - DOMAIN-KEYWORD,yandex
+  - DOMAIN-KEYWORD,duckduckgo
+  - DOMAIN-KEYWORD,opera
+  - DOMAIN-KEYWORD,ucweb
+  - DOMAIN-KEYWORD,firefox
+  - DOMAIN-KEYWORD,github
+  
+  # > JALUR GAME
+  - DOMAIN-KEYWORD,supercell
+  - DOMAIN-KEYWORD,clashofclans
+  - DOMAIN-KEYWORD,roblox
+  - DOMAIN-KEYWORD,apexlegends
+  - DOMAIN-KEYWORD,lytogame
+  - DOMAIN-KEYWORD,hago
+  - DOMAIN-KEYWORD,ragnarok
+  
+  # > JALUR SOSMED
+  - DOMAIN-KEYWORD,facebook
+  - DOMAIN-KEYWORD,fb
+  - DOMAIN-KEYWORD,fbcdn
+  - DOMAIN-KEYWORD,isntagram
+  - DOMAIN-KEYWORD,cdninstagram
+  - DOMAIN-KEYWORD,path
+  - DOMAIN-KEYWORD,telegram
+  - DOMAIN-KEYWORD,discord
+  - DOMAIN-KEYWORD,discuss
+  - DOMAIN-KEYWORD,tantan
+  
+  # > JALUR STREAM
+  - DOMAIN-KEYWORD,obs
+  - DOMAIN-KEYWORD,twitch
+  - DOMAIN-KEYWORD,youtube
+  - DOMAIN-KEYWORD,googlevideo
+  - DOMAIN-KEYWORD,googleapis
+  - DOMAIN-KEYWORD,ytimg
+  - DOMAIN-KEYWORD,gvt1
+  - DOMAIN-KEYWORD,gvt2
+  - DOMAIN-KEYWORD,youtu
+  - DOMAIN-KEYWORD,netflix
+  - DOMAIN-KEYWORD,hbo
+  - DOMAIN-KEYWORD,disney
+  - DOMAIN-KEYWORD,hotstar
+  - DOMAIN-KEYWORD,rcti
+  - DOMAIN-KEYWORD,mnc
+  - DOMAIN-KEYWORD,iptv
+  - DOMAIN-KEYWORD,smule
+  - DOMAIN-KEYWORD,joox
+  - DOMAIN-KEYWORD,spotify
+  - DOMAIN-KEYWORD,langitmusik
+  - DOMAIN-KEYWORD,deezer
+  - DOMAIN-KEYWORD,wesing
+  - DOMAIN-KEYWORD,resso
+
+  # > JALUR USAHA DAN BELI
+  - DOMAIN-KEYWORD,shopee
+  - DOMAIN-KEYWORD,airpay
+  - DOMAIN-KEYWORD,gopay
+  - DOMAIN-KEYWORD,dana
+  - DOMAIN-KEYWORD,linkaja
+  - DOMAIN-KEYWORD,qris
+  - DOMAIN-KEYWORD,bukalapak
+  - DOMAIN-KEYWORD,lazada
+  - DOMAIN-KEYWORD,tokopedia
+  - DOMAIN-KEYWORD,alicdn
+  - DOMAIN-KEYWORD,alibaba
+  - DOMAIN-KEYWORD,amazon
+  - DOMAIN-KEYWORD,ginee
+  - DOMAIN-KEYWORD,blibli
+  - DOMAIN-KEYWORD,shopback
+  - DOMAIN-KEYWORD,zalora
+  - DOMAIN-KEYWORD,etihad
+  - DOMAIN-KEYWORD,iherb
+  - DOMAIN-KEYWORD,zataru
+  - DOMAIN-KEYWORD,tiket
+  - DOMAIN-KEYWORD,berniaga
+  - DOMAIN-KEYWORD,redbox
+  - DOMAIN-KEYWORD,agoda
+  - DOMAIN-KEYWORD,booking
+  - DOMAIN-KEYWORD,expedia
+  - DOMAIN-KEYWORD,aliexpress
+  - DOMAIN-KEYWORD,bhinneka
+
+  # > JALUR SAHAM DAN TRADING
+  - DOMAIN-KEYWORD,trading
+  - DOMAIN-KEYWORD,saham
+  - DOMAIN-KEYWORD,gkinvest
+  - DOMAIN-KEYWORD,maxco
+  - DOMAIN-KEYWORD,forex
+  - DOMAIN-KEYWORD,fxtmindonesia
+  - DOMAIN-KEYWORD,stockbit
+  - DOMAIN-KEYWORD,investing
+  - DOMAIN-KEYWORD,idnfinancial
+  - DOMAIN-KEYWORD,idx
+  - DOMAIN-KEYWORD,sgx
+  - DOMAIN-KEYWORD,poems
+  - DOMAIN-KEYWORD,stormgain
+  - DOMAIN-KEYWORD,hsbc
+  - DOMAIN-KEYWORD,ajaib
+  - DOMAIN-KEYWORD,indodax

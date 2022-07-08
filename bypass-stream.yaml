@@ -1,0 +1,25 @@
+payload:
+
+  ## > LINTASAN PACU MODEM
+
+  # > JALUR KE DIRECT
+  - DOMAIN-KEYWORD,youtube
+  - DOMAIN-KEYWORD,youtu
+  - DOMAIN-KEYWORD,googlevideo
+  - DOMAIN-KEYWORD,ggpht
+  - DOMAIN-KEYWORD,googlevideo
+  - DOMAIN-KEYWORD,ytimg
+  - DOMAIN-KEYWORD,gvt1
+  - DOMAIN-KEYWORD,gvt2
+  - DOMAIN-KEYWORD,netflix
+  - DOMAIN-KEYWORD,hbo
+  - DOMAIN-KEYWORD,iqiyi
+  - DOMAIN-KEYWORD,vidio
+  - DOMAIN-KEYWORD,disney
+  - DOMAIN-KEYWORD,hotstar
+  - DOMAIN-KEYWORD,smule
+  - DOMAIN-KEYWORD,deezer
+  - DOMAIN-KEYWORD,langitmusik
+  - DOMAIN-KEYWORD,joox
+  - DOMAIN-KEYWORD,spotify
+  - DOMAIN-KEYWORD,soundcloud

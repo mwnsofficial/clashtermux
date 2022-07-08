@@ -1,0 +1,14 @@
+payload:
+
+  ## > LINTASAN PACU MODEM
+
+  # > JALUR KE DIRECT
+  - DOMAIN-KEYWORD,facebook
+  - DOMAIN-KEYWORD,fbcdn
+  - DOMAIN-KEYWORD,fb
+  - DOMAIN-KEYWORD,instagram
+  - DOMAIN-KEYWORD,cdninstagram
+  - DOMAIN-KEYWORD,whatsapp
+  - DOMAIN-KEYWORD,tiktok
+  - DOMAIN-KEYWORD,tiktokcdn
+  - DOMAIN-KEYWORD,tiktokv
